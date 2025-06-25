@@ -1,18 +1,36 @@
-baseURL = 'https://opiasec.github.io'
+baseURL = 'https://opiasec.com'
 languageCode = 'en-us'
 title = 'opiasec'
-theme = 'gokarna-hugo'
-
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
-
-[languages]
-    [languages.en]
-        [languages.en.params]
-            homeSubtitle = "delivering security through culture"
+theme = 'hugo-coder'
+defaultContentLanguage = 'en'
+enableEmoji = true
 
 [params]
-    [[params.socialLinks]]
-        name = "github"
-        url = "https://github.com/opiasec"
+    description = 'delivering security through culture'
+    info = 'delivering security through culture'
+    author = 'Opiasec'
+    colorScheme = 'dark'
+    avatarURL = 'images/logo.jpeg'
+
+    hideColorSchemeToggle = true
+
+[[params.social]]
+    name = 'github'
+    url = 'https://github.com/opiasec'
+    icon = 'fa-brands fa-github fa-2x'
+
+[[params.social]]
+    name = 'twitter'
+    url = 'https://twitter.com/opiasec'
+    icon = 'fa-brands fa-twitter fa-2x'
+
+[[menu.main]]
+    name = 'Github'
+    url = 'https://github.com/opiasec'
+    
+[[menu.main]]
+    name = 'Home'
+    url = '/'
+    weight = 1
+    
+
