@@ -6,3 +6,13 @@ theme = 'gokarna-hugo'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[languages]
+    [languages.en]
+        [languages.en.params]
+            homeSubtitle = "delivering security throught culture"
+
+[params]
+    [[params.socialLinks]]
+        name = "github"
+        url = "https://github.com/opiasec"
