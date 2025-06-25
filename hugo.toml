@@ -10,7 +10,7 @@ theme = 'gokarna-hugo'
 [languages]
     [languages.en]
         [languages.en.params]
-            homeSubtitle = "delivering security throught culture"
+            homeSubtitle = "delivering security through culture"
 
 [params]
     [[params.socialLinks]]
