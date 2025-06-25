@@ -1,0 +1,8 @@
+baseURL = 'https://opiasec.github.io'
+languageCode = 'en-us'
+title = 'opiasec'
+theme = 'gokarna-hugo'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
