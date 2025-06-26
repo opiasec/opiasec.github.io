@@ -8,11 +8,12 @@ enableEmoji = true
 [params]
     description = 'delivering security through culture'
     info = 'delivering security through culture'
-    author = 'Opiasec'
+    author = 'opiasec'
     colorScheme = 'dark'
     avatarURL = 'images/logo.jpeg'
 
     hideColorSchemeToggle = true
+    faviconSVG = '/images/favicon.svg'
 
 [[params.social]]
     name = 'github'
