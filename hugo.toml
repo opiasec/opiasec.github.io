@@ -25,16 +25,20 @@ enableEmoji = true
     url = 'https://twitter.com/opiasec'
     icon = 'fa-brands fa-twitter fa-2x'
 
-[[menu.main]]
-    name = 'Github'
-    url = 'https://github.com/opiasec'
     
 [[menu.main]]
     name = 'Home'
     url = '/'
     weight = 1
 [[menu.main]]
+    name = 'About'
+    url = '/about'
+    weight = 2
+[[menu.main]]
     name = 'Docs'
     url = 'https://docs.opiasec.com'
-    
-
+    weight = 3
+[[menu.main]]
+    name = 'Github'
+    url = 'https://github.com/opiasec'
+    weight = 4

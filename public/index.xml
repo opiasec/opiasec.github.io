@@ -7,5 +7,12 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;We are opiasec, a team of passionate security experts dedicated to making the digital world a safer place.&lt;/p&gt;&#xA;&lt;h2 id=&#34;mission&#34;&gt;&#xA;  Mission&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#mission&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Our mission is to deliver security through culture. We believe that security is not just a responsibility of a few, but a shared commitment across the entire community (or an organization).&lt;/p&gt;&#xA;&lt;h2 id=&#34;vision&#34;&gt;&#xA;  Vision&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#vision&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;We envision an organization where our projects are made by collaborative teams, that prioritize security initiatives that empower a cultural change from the ground up. We aim to create projects that brings security to the forefront, making it a part of everyday practices.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
