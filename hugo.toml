@@ -24,6 +24,10 @@ enableEmoji = true
     name = 'twitter'
     url = 'https://twitter.com/opiasec'
     icon = 'fa-brands fa-twitter fa-2x'
+[[params.social]]
+    name = 'Discord'
+    url = 'https://discord.gg/hXdwCW7e87'
+    icon = 'fa-brands fa-discord fa-2x'
 
     
 [[menu.main]]
